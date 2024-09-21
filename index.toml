@@ -70,11 +70,6 @@ hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
 metafile = true
 
 [[files]]
-file = "mods/eldritch-mobs.pw.toml"
-hash = "688277d4fe68deee42ab9c8ecd4b981c406f68e07a446521c45c9a2be4fbb40f"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
 metafile = true

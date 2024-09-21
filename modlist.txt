@@ -10,7 +10,6 @@ https://modrinth.com/datapack/amplified-nether
 https://modrinth.com/datapack/hearths
 https://modrinth.com/mod/borukva-food
 https://modrinth.com/mod/brewery
-https://modrinth.com/mod/eldritch-mobs
 https://modrinth.com/mod/illager-expansion-polymer
 https://modrinth.com/mod/more-tools
 https://modrinth.com/mod/polyfactory
