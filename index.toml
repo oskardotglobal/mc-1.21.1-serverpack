@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/polymer/auto-host.json"
+hash = "2f3473148ccd5639e2cd63b9750c56eef4d41f16e2e77f32ca794cf99dab5bdb"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
 metafile = true
@@ -53,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "6b0e159b579ffbfe92d68ea48f9c063d8d54f17055b9f4dd0fd8bc07a481c172"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
 metafile = true
 
 [[files]]
