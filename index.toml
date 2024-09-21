@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/refresh.yml"
+hash = "d6deac37c920d2864d8a024c656fd87e4c9f81a5c0aa7576e92768990f92ce48"
+
+[[files]]
 file = "config/polymer/auto-host.json"
 hash = "2f3473148ccd5639e2cd63b9750c56eef4d41f16e2e77f32ca794cf99dab5bdb"
 
