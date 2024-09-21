@@ -49,6 +49,11 @@ hash = "81c268e28ad8204470516c226dd0507ae4fa62e003ea8fb5f55ec2ebdd725f83"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
