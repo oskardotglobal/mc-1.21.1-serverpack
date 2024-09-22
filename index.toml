@@ -110,11 +110,6 @@ hash = "30eb61dc11ddd2d3da31bcedc0ec29572cd0e6ab32b93835a66f4dc3ecdfc3c5"
 metafile = true
 
 [[files]]
-file = "mods/loot-bags.pw.toml"
-hash = "126e093ad114c96b530e8d9495c670d54baaff4ac00fefe2e35c5f966963541c"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
