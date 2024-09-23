@@ -50,6 +50,11 @@ hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
 
 [[files]]
+file = "mods/clifftree.pw.toml"
+hash = "f3d47de17079b18c81b2d5f27567c3dcde6578d71fab46bd3bdf8d98468aa98e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
@@ -62,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "6b0e159b579ffbfe92d68ea48f9c063d8d54f17055b9f4dd0fd8bc07a481c172"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
 metafile = true
 
 [[files]]
@@ -85,6 +85,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2a1a9cc37324bc86db0944fe070878dbff660340232c20f84365070fd0cf6307"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
@@ -95,8 +100,18 @@ hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
 
 [[files]]
+file = "mods/ibo.pw.toml"
+hash = "45b4422498bfa814f98aebf87de77f6b4aad90772a9c40e7c1f74fe67bcb0045"
+metafile = true
+
+[[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
 hash = "420b219abd8ee856aa6acdd68b2f74aac928804a90b5419c31a1a391a2c3f6a0"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "f63e7d5f894ab0c29b3364115346f9298c7c257bb104992b68fb3256962bd745"
 metafile = true
 
 [[files]]
@@ -107,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "30eb61dc11ddd2d3da31bcedc0ec29572cd0e6ab32b93835a66f4dc3ecdfc3c5"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "97fbd7d91d83852b006ccef99a8a59ffc9c15fa79a087586239673b9aad316a5"
 metafile = true
 
 [[files]]
@@ -140,6 +160,11 @@ hash = "8a822f39484237a5a79b62168726ecdbcad6c4a3ea8597b03a5a090b56bd9739"
 metafile = true
 
 [[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "ac52495be58752d39d00f22b7e77698713c588b3dd9c85705e7b2822c707f6a8"
+metafile = true
+
+[[files]]
 file = "mods/polydex-bridge.pw.toml"
 hash = "3cedd50c62c9e2db8be3a531e67b1bdb9077d4855983f01a055259c5a55fbb32"
 metafile = true
@@ -160,13 +185,13 @@ hash = "b22b53c5ba57ccb6431a506afe37f99a1733d1c7877dd9e1c675fd2d153d608b"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
+file = "mods/puzzles-lib.pw.toml"
+hash = "46cdfbb611e2f0eec6a3c5420a88dc5b516c8a544597408c9b3d668ebf10f932"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "a0c0b9aa847a1cb324505849c531c967ac952985668f18b616326a504cbb04c8"
+file = "mods/servercore.pw.toml"
+hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
 metafile = true
 
 [[files]]
@@ -187,4 +212,9 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "29a5b8f25ad1a97ae38eae367933b03c85642327a4227ae24b36e830a8babcbd"
+metafile = true
+
+[[files]]
+file = "world/datapacks/incendium.pw.toml"
+hash = "4a3b85eff0ce344b5284f25afddce4d08022e55d82d8556b286f9b39973c8bc4"
 metafile = true

@@ -1,7 +1,7 @@
 https://modrinth.com/datapack/loot-bags
 https://modrinth.com/datapack/nullscape
 https://modrinth.com/datapack/dungeons-and-taverns
-https://modrinth.com/datapack/terralith
+https://modrinth.com/mod/clifftree
 https://modrinth.com/datapack/geophilic
 https://modrinth.com/datapack/explorify
 https://modrinth.com/mod/when-dungeons-arise
@@ -28,4 +28,7 @@ https://modrinth.com/mod/noisium
 https://modrinth.com/mod/alternate-current
 https://modrinth.com/mod/servercore
 https://modrinth.com/mod/noxesium
-https://modrinth.com/datapack/dynamic-lights
+https://modrinth.com/mod/leaves-be-gone
+https://modrinth.com/mod/polydecorations
+https://modrinth.com/mod/lootr
+https://modrinth.com/datapack/ibo
