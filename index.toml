@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
+hash = "7b09d33cdf861de6fcac6ee8751435b917da52b15191c58ae261bdf039139cce"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "30eb61dc11ddd2d3da31bcedc0ec29572cd0e6ab32b93835a66f4dc3ecdfc3c5"
+hash = "f2be7af048093b76c2b6dcc8930c1bdd5cfa85f52b86dbd67d6192af89c96f2d"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
+hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
 metafile = true
 
 [[files]]
