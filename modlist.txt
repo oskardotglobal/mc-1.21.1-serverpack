@@ -22,7 +22,6 @@ https://modrinth.com/mod/lithium
 https://modrinth.com/mod/ferrite-core
 https://modrinth.com/mod/modernfix
 https://modrinth.com/mod/no-chat-reports
-https://modrinth.com/mod/c2me-fabric
 https://modrinth.com/mod/vmp-fabric
 https://modrinth.com/mod/noisium
 https://modrinth.com/mod/alternate-current
@@ -32,3 +31,7 @@ https://modrinth.com/mod/leaves-be-gone
 https://modrinth.com/mod/polydecorations
 https://modrinth.com/mod/lootr
 https://modrinth.com/datapack/ibo
+https://modrinth.com/plugin/lmd
+https://modrinth.com/mod/moonrise-opt
+https://modrinth.com/mod/ksyxis
+https://modrinth.com/mod/krypton

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b081e0728dab2c8f90655cce04ed78b430b064e903f42a3c8f49b9fb66909354"
+
+[[files]]
 file = "config/polymer/auto-host.json"
 hash = "2f3473148ccd5639e2cd63b9750c56eef4d41f16e2e77f32ca794cf99dab5bdb"
 
@@ -27,11 +31,6 @@ metafile = true
 [[files]]
 file = "mods/brewery.pw.toml"
 hash = "97090b0b369f752002902d7ed44182e4d3da8b392feec1f8f86c1b4c07c3ca17"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
 metafile = true
 
 [[files]]
@@ -110,6 +109,16 @@ hash = "420b219abd8ee856aa6acdd68b2f74aac928804a90b5419c31a1a391a2c3f6a0"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "f63e7d5f894ab0c29b3364115346f9298c7c257bb104992b68fb3256962bd745"
 metafile = true
@@ -125,6 +134,11 @@ hash = "f2be7af048093b76c2b6dcc8930c1bdd5cfa85f52b86dbd67d6192af89c96f2d"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "cc9155f59d5483cff9c738329fc700731f768bafaf2e191f75fb69bfff38b66c"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "97fbd7d91d83852b006ccef99a8a59ffc9c15fa79a087586239673b9aad316a5"
 metafile = true
@@ -132,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "d5f66af4da6603294f5a4d2d6a9794f0ac5ba905b76e79aaa1918ea41cefd07f"
 metafile = true
 
 [[files]]
