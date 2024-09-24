@@ -99,11 +99,6 @@ hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
 
 [[files]]
-file = "mods/ibo.pw.toml"
-hash = "45b4422498bfa814f98aebf87de77f6b4aad90772a9c40e7c1f74fe67bcb0045"
-metafile = true
-
-[[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
 hash = "420b219abd8ee856aa6acdd68b2f74aac928804a90b5419c31a1a391a2c3f6a0"
 metafile = true
@@ -231,9 +226,4 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "29a5b8f25ad1a97ae38eae367933b03c85642327a4227ae24b36e830a8babcbd"
-metafile = true
-
-[[files]]
-file = "world/datapacks/incendium.pw.toml"
-hash = "4a3b85eff0ce344b5284f25afddce4d08022e55d82d8556b286f9b39973c8bc4"
 metafile = true
