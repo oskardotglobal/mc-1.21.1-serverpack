@@ -204,11 +204,6 @@ hash = "0ed54b1edcc610d683565b957af9921940c7e913160b2c88c108959f4056ac8e"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "29a5b8f25ad1a97ae38eae367933b03c85642327a4227ae24b36e830a8babcbd"
 metafile = true
