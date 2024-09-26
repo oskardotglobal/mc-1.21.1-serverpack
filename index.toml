@@ -19,6 +19,11 @@ hash = "c80f37b53efa706687554aef9ca145827616068483b2f361bfd1d03c4bbfc784"
 metafile = true
 
 [[files]]
+file = "mods/arcana-novum.pw.toml"
+hash = "c11299dfe8a70b2e924c5f5493e3aa60adf122c51f0e4047f80c6e8d2d2746d8"
+metafile = true
+
+[[files]]
 file = "mods/borukva-food.pw.toml"
 hash = "b48e457e28b8fcc3a37a95aa7af2fbeac428f2da962cf18448649bda40a17ee0"
 metafile = true
