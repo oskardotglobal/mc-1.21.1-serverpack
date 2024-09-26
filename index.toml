@@ -84,11 +84,6 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "2a1a9cc37324bc86db0944fe070878dbff660340232c20f84365070fd0cf6307"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "7b09d33cdf861de6fcac6ee8751435b917da52b15191c58ae261bdf039139cce"
 metafile = true
@@ -114,8 +109,8 @@ hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "f63e7d5f894ab0c29b3364115346f9298c7c257bb104992b68fb3256962bd745"
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "738dff51b80050ab609b1e38b949171706a8c243f59e2a2fa09f9d6e6cb88a14"
 metafile = true
 
 [[files]]
@@ -191,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "b22b53c5ba57ccb6431a506afe37f99a1733d1c7877dd9e1c675fd2d153d608b"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "46cdfbb611e2f0eec6a3c5420a88dc5b516c8a544597408c9b3d668ebf10f932"
 metafile = true
 
 [[files]]
