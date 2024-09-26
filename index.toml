@@ -129,11 +129,6 @@ hash = "cc9155f59d5483cff9c738329fc700731f768bafaf2e191f75fb69bfff38b66c"
 metafile = true
 
 [[files]]
-file = "mods/lootr.pw.toml"
-hash = "97fbd7d91d83852b006ccef99a8a59ffc9c15fa79a087586239673b9aad316a5"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
