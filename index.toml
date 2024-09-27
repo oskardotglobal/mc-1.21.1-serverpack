@@ -34,6 +34,11 @@ hash = "97090b0b369f752002902d7ed44182e4d3da8b392feec1f8f86c1b4c07c3ca17"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+metafile = true
+
+[[files]]
 file = "mods/cc-polymer.pw.toml"
 hash = "e373a712a00d80d2e67428f25fc3492ada5fa6a9bf77d5b3026ee91e173c5659"
 metafile = true
@@ -134,11 +139,6 @@ hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "d5f66af4da6603294f5a4d2d6a9794f0ac5ba905b76e79aaa1918ea41cefd07f"
-metafile = true
-
-[[files]]
 file = "mods/more-tools.pw.toml"
 hash = "9813dc3704fba0206d821d3480c7a3b415f36969f48d538ff3baf1b8570ef986"
 metafile = true
@@ -164,6 +164,11 @@ hash = "8a822f39484237a5a79b62168726ecdbcad6c4a3ea8597b03a5a090b56bd9739"
 metafile = true
 
 [[files]]
+file = "mods/ouch.pw.toml"
+hash = "504bcc6720a8a1ce47f5e0622a5692a4f97ea8d0484df3519169accf2319880f"
+metafile = true
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "ac52495be58752d39d00f22b7e77698713c588b3dd9c85705e7b2822c707f6a8"
 metafile = true
@@ -179,13 +184,33 @@ hash = "eac2eae68b5c4d4f043491b04124c8e6503a6c996a480806ee71b350e61d010a"
 metafile = true
 
 [[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "ad79d782d2740dfaa8728470315cb312ba8565032a70a578e756f8f6e0c1c21e"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "b22b53c5ba57ccb6431a506afe37f99a1733d1c7877dd9e1c675fd2d153d608b"
 metafile = true
 
 [[files]]
+file = "mods/potatoptimize.pw.toml"
+hash = "b4854f571441289ac64df8ac82ef54a55bb9afc12573059f1f0d59af2d2148d4"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
+metafile = true
+
+[[files]]
+file = "mods/sswaystones.pw.toml"
+hash = "1a7e3199a1e72bcd22564cb66043e91bf476278a31a34fe4169d296472d8d939"
 metafile = true
 
 [[files]]
@@ -196,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0ed54b1edcc610d683565b957af9921940c7e913160b2c88c108959f4056ac8e"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
 metafile = true
 
 [[files]]
