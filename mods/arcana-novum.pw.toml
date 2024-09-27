@@ -1,7 +1,13 @@
-name = "arcana-novum"
-filename = "arcananovum-3.0.2+1.21.1.jar"
+name = "Arcana Novum"
+filename = "arcananovum-3.0.3+1.21.1.jar"
+side = "server"
 
 [download]
-url = "https://github.com/oskardotglobal/mc-1.21.1-serverpack/raw/refs/heads/main/override/arcananovum-3.0.2+1.21.1.jar"
-hash-format = "sha256"
-hash = "cc4af6dfdf344520856834f650033e87e247cc5615e5ab994e4b0f66e1bf514f"
+url = "https://cdn.modrinth.com/data/9J7sCd3t/versions/3MfPEfvh/arcananovum-3.0.3%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "1e3a27c6782e4cbf687d03e80d44b51c594c8b6b"
+
+[update]
+[update.modrinth]
+mod-id = "9J7sCd3t"
+version = "3MfPEfvh"
