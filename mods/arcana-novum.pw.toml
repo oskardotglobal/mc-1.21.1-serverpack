@@ -1,13 +1,13 @@
 name = "Arcana Novum"
-filename = "arcananovum-3.0.3+1.21.1.jar"
+filename = "arcananovum-3.0.4+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9J7sCd3t/versions/3MfPEfvh/arcananovum-3.0.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9J7sCd3t/versions/yCrHGEjY/arcananovum-3.0.4%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "1e3a27c6782e4cbf687d03e80d44b51c594c8b6b"
+hash = "3923dd17a137c11d3023449525d9ac828c02c31f"
 
 [update]
 [update.modrinth]
 mod-id = "9J7sCd3t"
-version = "3MfPEfvh"
+version = "yCrHGEjY"

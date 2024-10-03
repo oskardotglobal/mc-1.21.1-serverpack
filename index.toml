@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcana-novum.pw.toml"
-hash = "0fe966d28a03ff3ba0679db261deb09dcbe16e696a0201fc1f72435f29f7a9bd"
+hash = "ec398ef7ffc2a323124c2676e4699453703c5c1e56e84aaff55d86d1e1f163aa"
 metafile = true
 
 [[files]]
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+hash = "d089b5138cc9462261215d93a59c99c21371c0bcfa39a6f52ef0d6c3af1a1ab4"
 metafile = true
 
 [[files]]
@@ -65,17 +65,27 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "bda0b37fdcd7527589d0c31771fad0eb95b5927c2cad3ddb5177dea870347082"
+hash = "38258efea5e4452471f3d85e85cada8ab6d5bdf22850c9f86e57052027b2dcbb"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "3425d1350648d0eb235f0a95ddd391ad115114d95e4eeda54184d9983e09167f"
+hash = "19251b72a144d1a48929ed1faedc61e751720b357f6e9ab13d58877aef02e638"
 metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers-polymer.pw.toml"
+hash = "4c1d41a1885b377464db692b1a1d6f1b4034a2ad4afdfe11a253060fc333b0dd"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "dfc60497327cf49f23dcab6369eb0a746570e7607329336341ff3ed0228f0004"
 metafile = true
 
 [[files]]
@@ -155,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "665d5fd80ae9167ab56a91ab600b5d9205bf5d974a26137c3da66ddc84869e7d"
+hash = "eb3c4a7faf6e350e2cec105a50a302e918e579784b73967e1cbf8f08a3c50605"
 metafile = true
 
 [[files]]
