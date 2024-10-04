@@ -39,6 +39,11 @@ hash = "d089b5138cc9462261215d93a59c99c21371c0bcfa39a6f52ef0d6c3af1a1ab4"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
+metafile = true
+
+[[files]]
 file = "mods/cc-polymer.pw.toml"
 hash = "e373a712a00d80d2e67428f25fc3492ada5fa6a9bf77d5b3026ee91e173c5659"
 metafile = true
