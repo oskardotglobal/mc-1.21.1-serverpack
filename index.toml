@@ -69,6 +69,11 @@ hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "38258efea5e4452471f3d85e85cada8ab6d5bdf22850c9f86e57052027b2dcbb"
 metafile = true
